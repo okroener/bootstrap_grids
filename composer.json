@@ -10,9 +10,9 @@
     "issues": "https://github.com/laxap/bootstrap_grids/issues"
   },
   "require": {
-    "php": "^7.4 || ^8.0 || ^8.1",
-    "typo3/cms-core": "^9.5 || ^10.4 || ^11.5",
-    "gridelementsteam/gridelements": "^9 || ^10 || ^11.0.0-dev"
+    "php": "^7.4 || ^8.0",
+    "typo3/cms-core": "^10.4 || ^11.5",
+    "gridelementsteam/gridelements": "^10 || ^11.0.0"
   },
   "replace": {
     "typo3-ter/bootstrap-grids": "self.version"
